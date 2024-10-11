@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>السيرة الذاتية - غادة خالد يوسف محمد</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        section {
+            margin: 20px 0;
+        }
+        section h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: #4CAF50;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            padding: 5px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>غادة خالد يوسف محمد</h1>
+            <p>محاسبة وباحثة</p>
+            <p>تاريخ الميلاد: 1 مايو 2000</p>
+            <p>الجنسية: مصرية</p>
+        </header>
+
+        <section>
+            <h2>البيانات الشخصية</h2>
+            <ul>
+                <li>الاسم: غادة خالد يوسف محمد</li>
+                <li>تاريخ الميلاد: 1 مايو 2000</li>
+                <li>الحالة الاجتماعية: عزباء</li>
+                <li>الجنسية: مصرية</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>التعليم</h2>
+            <ul>
+                <li>بكالوريوس تجارة إنجليزي، جامعة دمنهور</li>
+                <li>دبلوم في المحاسبة المالية والمراجعة (حاليًا)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>الخبرات العملية</h2>
+            <ul>
+                <li>محاسبة في شركة (لم يتم ذكر اسم الشركة)</li>
+                <li>موظفة في مركز اتصالات</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>المهارات</h2>
+            <ul>
+                <li>إجادة استخدام الكمبيوتر</li>
+                <li>محاسبة مالية</li>
+                <li>إعداد التقارير المالية</li>
+                <li>التواصل باللغتين العربية والإنجليزية</li>
+                <li>إجادة استخدام برنامج MOS</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>الدورات التدريبية</h2>
+            <ul>
+                <li>دورة المحاسب المالي المحترف</li>
+                <li>دورة إنجليزية عبر الإنترنت</li>
+                <li>دورة MOS عبر الإنترنت</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>الأنشطة البحثية</h2>
+            <ul>
+                <li>تقديم طلب لدورة بحث في مجال السرطان</li>
+            </ul>
+        </section>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2024 غادة خالد يوسف محمد</p>
+    </footer>
+
+</body>
+</html>
